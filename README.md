@@ -7,10 +7,16 @@ difficulty remembering the default IntelliJ key-bindings.
 
 ## Installation
 
-- Using IDE built-in plugin system:
+* Using IDE built-in plugin system:
 
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "EasyMap"</kbd> >
   <kbd>Install Plugin</kbd>
+
+* Download from Github:
+
+    1. [Download EasyMap-macOS-1.0.0.zip](https://github.com/jonathanlocke/intellij-easymap-mac/blob/main/EasyMap-macOS-1.0.0.zip)
+    2. <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Installed</kbd> > <kbd>Install Plugin from
+       Disk...</kbd> >
 
 ---
 Plugin based on the [IntelliJ Platform Plugin Template][template].
