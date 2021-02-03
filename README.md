@@ -7,7 +7,7 @@ difficulty remembering the default IntelliJ key-bindings.
 
 ## Installation
 
-* Using IDE built-in plugin system:
+* Install in IntelliJ:
 
   <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "EasyMap"</kbd> >
   <kbd>Install Plugin</kbd>
