@@ -7,4 +7,6 @@
 
     <description>A simple, logical and easy-to-remember keymap for IntelliJ on macOS.</description>
 
+    <bundledKeymap file = "EasyMap macOS.xml"/>
+
 </idea-plugin>
