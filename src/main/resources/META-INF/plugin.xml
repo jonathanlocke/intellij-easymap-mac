@@ -3,10 +3,12 @@
     <id>com.github.jonathanlocke.intellijeasymapmac</id>
     <name>EasyMap macOS</name>
     <vendor>Jonathan Locke</vendor>
-    <version>1.0.0</version>
+    <version url = "https://www.linkedin.com/in/jonathan-locke-3892ba/">1.0.0</version>
 
     <description>A simple, logical and easy-to-remember keymap for IntelliJ on macOS.</description>
 
-    <bundledKeymap file = "EasyMap macOS.xml"/>
+    <extensions defaultExtensionNs = "com.intellij">
+        <bundledKeymap file = "EasyMap macOS.xml"/>
+    </extensions>
 
 </idea-plugin>
