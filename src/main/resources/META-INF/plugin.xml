@@ -1,19 +1,24 @@
 <idea-plugin>
+
     <id>com.github.jonathanlocke.intellijeasymapmac</id>
-    <name>intellij-easymap-mac</name>
-    <vendor>jonathanlocke</vendor>
+    <name>EasyMap macOS</name>
+    <vendor>Jonathan Locke</vendor>
+    <version>1.0.0</version>
+
+    <description>A simple, logical and easy-to-remember keymap for IntelliJ on macOS.</description>
 
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
 
-    <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.jonathanlocke.intellijeasymapmac.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.jonathanlocke.intellijeasymapmac.services.MyProjectService"/>
+    <extensions defaultExtensionNs = "com.intellij">
+        <applicationService serviceImplementation = "com.github.jonathanlocke.intellijeasymapmac.services.MyApplicationService"/>
+        <projectService serviceImplementation = "com.github.jonathanlocke.intellijeasymapmac.services.MyProjectService"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.jonathanlocke.intellijeasymapmac.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
+        <listener class = "com.github.jonathanlocke.intellijeasymapmac.listeners.MyProjectManagerListener"
+                  topic = "com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
+
 </idea-plugin>
