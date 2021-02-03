@@ -1,0 +1,4 @@
+String Manipulation
+com.github.patou.gitmoji
+com.intellij.marketplace
+org.antlr.intellij.plugin
