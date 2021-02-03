@@ -9,8 +9,7 @@ difficulty remembering the default IntelliJ key-bindings.
 
 - Using IDE built-in plugin system:
 
-  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "
-  intellij-easymap-mac"</kbd> >
+  <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "EasyMap"</kbd> >
   <kbd>Install Plugin</kbd>
 
 ---
