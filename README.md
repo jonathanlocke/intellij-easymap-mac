@@ -2,7 +2,7 @@
 A simple, logical and easy-to-remember keymap for IntelliJ on macOS. Good for IntelliJ beginners or those who have
 difficulty remembering the default IntelliJ key-bindings.
 
-[PDF cheatsheet](https://github.com/jonathanlocke/intellij-easymap-mac/blob/main/IntelliJ%20MacOS%20Key%20Map.pdf)
+[PDF cheatsheet](https://github.com/jonathanlocke/intellij-easymap-mac/blob/main/EasyMap%20macOS.pdf)
 <!-- Plugin description end -->
 
 ## Installation
