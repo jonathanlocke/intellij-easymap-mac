@@ -1,6 +1,6 @@
 <idea-plugin>
 
-    <id>com.github.jonathanlocke.intellijeasymapmac</id>
+    <id>com.github.jonathanlocke.intellij.easymap.macos</id>
     <name>EasyMap macOS</name>
     <vendor>Jonathan Locke</vendor>
     <version url = "https://www.linkedin.com/in/jonathan-locke-3892ba/">1.0.1</version>
