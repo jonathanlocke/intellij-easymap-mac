@@ -14,7 +14,7 @@ difficulty remembering the default IntelliJ key-bindings.
 
 * Download from Github:
 
-    1. [Download EasyMap-macOS-1.0.0.zip](https://github.com/jonathanlocke/intellij-easymap-mac/blob/main/EasyMap-macOS-1.0.0.zip)
+    1. [Download EasyMap-macOS-1.0.0.zip](https://github.com/jonathanlocke/intellij-easymap-mac/blob/main/EasyMap-macOS-1.0.3.zip)
     2. <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Installed</kbd> > <kbd>Install Plugin from
        Disk...</kbd> >
 
