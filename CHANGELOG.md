@@ -2,9 +2,8 @@
 
 # EasyMap macOS Change Log
 
-## 1.0.0
+## 1.0.2
 
-### Initial Version
+### Initial Release
 
-- Initial scaffold created
-  from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Initial version of EasyMap macOS keymap
