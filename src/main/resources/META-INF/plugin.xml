@@ -1,13 +1,14 @@
 <idea-plugin>
 
-    <id>com.github.jonathanlocke.intellij.easymap.macos</id>
+    <id>com.github.jonathanlocke.intellij.easymapmac</id>
     <name>EasyMap macOS</name>
-    <vendor>Jonathan Locke</vendor>
-    <version url = "https://www.linkedin.com/in/jonathan-locke-3892ba/">1.0.2</version>
+    <vendor url = "https://www.linkedin.com/in/jonathan-locke-3892ba">Jonathan Locke</vendor>
+    <version>1.0.4</version>
+    <idea-version since-build = "201"/>
 
     <description>A simple, logical and easy-to-remember keymap for IntelliJ on macOS.</description>
 
-    <change-notes>Initial release of the plugin.</change-notes>
+    <change-notes>Updated version range for IntelliJ 2021.1</change-notes>
 
     <depends>com.intellij.modules.platform</depends>
 

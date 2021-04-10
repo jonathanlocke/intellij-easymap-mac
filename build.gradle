@@ -1,0 +1,40 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.7.2'
+}
+
+group 'com.github.jonathanlocke.intellijeasymapmac'
+version '1.0.4'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
+
+intellij {
+    version '2021.1'
+    updateSinceUntilBuild false
+}
+
+patchPluginXml {
+    changeNotes """
+# Change Log
+
+## 1.0.4 - April 10, 2021
+### Fixed
+- Removed IDE's upper version limit to allow it to work in 2021.1 and in the future
+
+## 1.0.3
+### Initial Release
+- Initial version of EasyMap macOS keymap
+"""
+}
+
+buildSearchableOptions {
+    enabled = true
+}
+
+
