@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.jonathanlocke.intellijeasymapmac'
-version '1.0.4'
+version '1.0.5'
 
 repositories {
     mavenCentral()
@@ -22,6 +22,11 @@ intellij {
 patchPluginXml {
     changeNotes """
 # Change Log
+
+## 1.0.5 - April 12, 2021
+### Fixed
+- Changed depends element to com.intellij.java
+- Improved plugin description
 
 ## 1.0.4 - April 10, 2021
 ### Fixed
