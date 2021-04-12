@@ -4,6 +4,10 @@ the default IntelliJ key-bindings. Features are organized into groups. Each grou
 editing, ⌘G for Git, ⌘J for Java and ⌘D for debugging.
 <!-- Plugin description end -->
 
+**Documentation**
+
+[PDF CheatSheet](EasyMap-macOS.pdf)
+
 **Installation**
 
 <kbd>Settings/Preferences</kbd> > <kbd>Plugins</kbd> > <kbd>Marketplace</kbd> > <kbd>Search for "EasyMap"</kbd> >
